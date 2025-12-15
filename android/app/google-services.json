@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094780376414",
+    "project_id": "rh-chat-f3ae3",
+    "storage_bucket": "rh-chat-f3ae3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094780376414:android:0156d6d9efc104aefc2bcf",
+        "android_client_info": {
+          "package_name": "com.example.rh_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjThruT-Ze3xgP_XauotvVXqe5Us6EMB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
